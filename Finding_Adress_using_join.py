@@ -1,6 +1,6 @@
 import sqlite3
 
-# Create a connection to an in-memory SQLite database
+# Create a connection to SQLite database
 conn = sqlite3.connect('safertek_task_join.db')
 
 # Create tables and insert data
